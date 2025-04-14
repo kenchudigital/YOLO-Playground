@@ -1,0 +1,4 @@
+datasets/fall_datasets/images
+datasets/fall_datasets/labels
+yolov8n.pt
+runs

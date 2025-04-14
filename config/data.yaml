@@ -1,0 +1,11 @@
+path: ../datasets
+train: fall_datasets/images/train
+val: fall_datasets/images/val
+test: fall_datasets/images/test
+
+nc: 3
+
+names:
+  0: Fall Detected
+  1: Walking
+  2: Sitting
